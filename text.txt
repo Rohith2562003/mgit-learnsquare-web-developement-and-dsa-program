@@ -9,3 +9,4 @@ Git config –global user.email “email id”
 Git config –global user.name “name here”
 Git status
 Git log
+git push and pull completed
