@@ -1,0 +1,11 @@
+Git status 
+Git init
+Git add “filename”
+Git commit -m “type msg”
+Git clone url 
+Git remote add origin url
+Git push origin main
+Git config –global user.email “email id”
+Git config –global user.name “name here”
+Git status
+Git log
